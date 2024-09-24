@@ -1,0 +1,1 @@
+In this tutorial, we are going to see an example of JComboBox in Java Swing. JComboBox is part of the Java Swing package. JComboBox inherits from the JComponent class. JComboBox displays a contextual menu as a list that allows the user to select an option from the specified list. JComboBox can be editable or read-only according to the programmer’s choice.
